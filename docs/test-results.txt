@@ -1,0 +1,27 @@
+test_fastapi_contract_and_swagger (test_fastapi.FastApiTests.test_fastapi_contract_and_swagger) ... ok
+test_real_http_health_and_authentication (test_library.HttpTests.test_real_http_health_and_authentication) ... ok
+test_absent_answer_no_invented_source (test_library.LibraryTests.test_absent_answer_no_invented_source) ... ok
+test_catalog_and_copy_validation (test_library.LibraryTests.test_catalog_and_copy_validation) ... ok
+test_chunk_pages_overlap_and_prompt_policy (test_library.LibraryTests.test_chunk_pages_overlap_and_prompt_policy) ... ok
+test_document_access_before_vector_retrieval (test_library.LibraryTests.test_document_access_before_vector_retrieval) ... ok
+test_failed_index_has_consistent_status (test_library.LibraryTests.test_failed_index_has_consistent_status) ... ok
+test_favorites_and_collections_owner (test_library.LibraryTests.test_favorites_and_collections_owner) ... ok
+test_feedback_and_statistics (test_library.LibraryTests.test_feedback_and_statistics) ... ok
+test_invalid_auth_and_permissions (test_library.LibraryTests.test_invalid_auth_and_permissions) ... ok
+test_login_logout_and_revocation (test_library.LibraryTests.test_login_logout_and_revocation) ... ok
+test_parallel_loans_only_one_succeeds (test_library.LibraryTests.test_parallel_loans_only_one_succeeds) ... ok
+test_question_with_sources_and_isolated_history (test_library.LibraryTests.test_question_with_sources_and_isolated_history) ... ok
+test_registration_cannot_grant_admin (test_library.LibraryTests.test_registration_cannot_grant_admin) ... ok
+test_reminders_are_idempotent (test_library.LibraryTests.test_reminders_are_idempotent) ... ok
+test_reservation_ownership_and_duplicate (test_library.LibraryTests.test_reservation_ownership_and_duplicate) ... ok
+test_reservation_return_notification_priority (test_library.LibraryTests.test_reservation_return_notification_priority) ... ok
+test_router_contract (test_library.LibraryTests.test_router_contract) ... ok
+test_summary_comparison_and_not_indexed (test_library.LibraryTests.test_summary_comparison_and_not_indexed) ... ok
+test_unavailable_copy_and_history (test_library.LibraryTests.test_unavailable_copy_and_history) ... ok
+test_no_sqlite_types_remain_in_any_statement (test_oracle_schema.OracleSchemaTests.test_no_sqlite_types_remain_in_any_statement) ... ok
+test_nullable_text_at_end_of_table_becomes_clob (test_oracle_schema.OracleSchemaTests.test_nullable_text_at_end_of_table_becomes_clob) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 4.145s
+
+OK

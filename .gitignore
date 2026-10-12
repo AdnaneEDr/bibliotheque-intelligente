@@ -1,0 +1,13 @@
+.venv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+work/
+docs/LIVE_VALIDATION.json
+
